@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Profile;
 
 import com.guilhermeFaioli.WebServicesSpringBoot.entities.Order;
 import com.guilhermeFaioli.WebServicesSpringBoot.entities.User;
-import com.guilhermeFaioli.WebServicesSpringBoot.enums.OrderStatus;
+import com.guilhermeFaioli.WebServicesSpringBoot.entities.enums.OrderStatus;
 import com.guilhermeFaioli.WebServicesSpringBoot.repositories.OrderRepository;
 import com.guilhermeFaioli.WebServicesSpringBoot.repositories.UserRepository;
 
